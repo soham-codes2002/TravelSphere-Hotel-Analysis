@@ -1,5 +1,6 @@
 # TravelSphere Hotel Analysis 🏨
-
+## 📊 Live Interactive Dashboard
+[![View on Tableau Public](https://img.shields.io/badge/Tableau-View%20Live%20Dashboard-blue?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/soham.nachankar/viz/TravelSphere_hotels/Dashboard3)
 A Tableau dashboard analysing Europe's finest hotel experiences through data-driven insights.
 
 ## Overview
